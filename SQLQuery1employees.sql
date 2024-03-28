@@ -13,7 +13,7 @@ primary key(eid)
 insert into employee values(1, 'aamna', 950000, 20, 'female', 'CS');
 insert into employee values(2, 'iqra', 850000, 21, 'female', 'CA');
 insert into employee values(3, 'ibrahim', 750000, 19, 'male', 'analytics');
-insert into employee values(4, 'sehrish', 650000, 22, 'female', 'CS');
+insert into employee values(4, 'sehrish', 650000, 23, 'female', 'CS');
 insert into employee values(5, 'anas', 890000, 24, 'male', 'CA');
 insert into employee values(6, 'maisara', 850000, 30, 'female', 'Sales');
 insert into employee values(7, 'jibran', 800000, 29, 'male', 'analytics');
